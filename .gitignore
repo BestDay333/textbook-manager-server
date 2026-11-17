@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+uploads/books/*
+uploads/covers/*
+!uploads/books/.gitkeep
+!uploads/covers/.gitkeep
+*.log
